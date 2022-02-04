@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @amayasmh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+###Hi😀
+A propos de moi:
 
-<!---
-amayasmh/amayasmh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Je m'appelle Amayas Mahmoudi, et je suis actuellement étudiant en Licence 3 informatique à l'université Gustave Eiffel.
+Je suis passionné par les nouvelles technologies et l'ingénierie logicielle.
+Et j'adore le F⚽⚽T également.
+
+Technologies:
+Python C Java HTML5 CSS3 Bootstrap PHP MySQL PostgreSQL  JavaScript Angular  Git GitHub 
+
+[lLinkedIn](https://www.linkedin.com/in/amayas-mhd/)
