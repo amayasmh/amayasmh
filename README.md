@@ -3,11 +3,10 @@
 
 A propos de moi:
 
-Je m'appelle Amayas Mahmoudi, et je suis actuellement étudiant en Licence 3 informatique à l'université Gustave Eiffel.
-Je suis passionné par les nouvelles technologies.
-Et j'adore le F⚽⚽T.
+Je m'appelle Amayas Mahmoudi, et je suis actuellement étudiant en Master 1 DATA ARCHITECT a l'école Sup De Vinci.
+Je suis passionné par les nouvelles technologies,et j'adore le F⚽⚽T.
 
 Technologies:
-Python C Java HTML5 CSS3 Bootstrap PHP MySQL PostgreSQL  JavaScript Angular  Git GitHub 
+Python C Java HTML5 CSS3 Bootstrap PHP MySQL PostgreSQL  JavaScript Angular  Git GitHub Docker Airflow AzureCloud
 
 [lLinkedIn](https://www.linkedin.com/in/amayas-mhd/)
