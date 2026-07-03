@@ -20,9 +20,9 @@ Je construis des systèmes fiables où les LLM rencontrent la donnée d'entrepri
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
 
-**Data Engineering :** BigQuery · dbt · Airflow · Spark · Kafka · Snowflake · PostgreSQL
-**Agentic AI :** Serveurs MCP (Model Context Protocol) · LangGraph · RAG · Vertex AI · Évaluation d'agents
-**DevOps :** Docker · CI/CD (GitLab, GitHub Actions) · Monitoring · FinOps
+- **Data Engineering :** BigQuery · dbt · Airflow · Spark · Kafka · Snowflake · PostgreSQL
+- **Agentic AI :** Serveurs MCP (Model Context Protocol) · LangGraph · RAG · Vertex AI · Évaluation d'agents
+- **DevOps :** Docker · CI/CD (GitLab, GitHub Actions) · Monitoring · FinOps
 
 ---
 
