@@ -8,7 +8,7 @@ Je construis des systèmes fiables où les LLM rencontrent la donnée d'entrepri
 
 ---
 
-### 🛠️ Stack
+###  Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
