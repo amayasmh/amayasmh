@@ -37,10 +37,10 @@ Je construis des systèmes fiables où les LLM rencontrent la donnée d'entrepri
 
 | Projet | Description |
 |---|---|
-|  [RAG_Ollama](https://github.com/amayasmh/RAG_Ollama) | Pipeline RAG 100% local avec Ollama |
-|  [HealthDataWarehousing](https://github.com/amayasmh/HealthDataWarehousing) | Entrepôt de données sur les passages aux urgences (COVID-19) |
-|  [UrbanMobIDF](https://github.com/amayasmh/UrbanMobIDF) | Analyse de la mobilité urbaine en Île-de-France |
-| 🏦 [bank-churn-prediction](https://github.com/amayasmh/bank-churn-prediction) | Prédiction du churn bancaire — Random Forest & données déséquilibrées |
+|  [RAG_Ollama](https://github.com/amayasmh/RAG_Ollama) | Pipeline RAG 100% local — FAISS, Ollama, Streamlit |
+|  [HealthDataWarehousing](https://github.com/amayasmh/HealthDataWarehousing) | Entrepôt de données COVID-19 — ETL orchestré avec Airflow et PostgreSQL |
+|  [UrbanMobIDF](https://github.com/amayasmh/UrbanMobIDF) | Optimisation d'itinéraires sur le réseau IDF — GTFS, graphe, Dijkstra |
+|  [bank-churn-prediction](https://github.com/amayasmh/bank-churn-prediction) | Prédiction du churn bancaire — Random Forest & données déséquilibrées |
 
 ---
 
