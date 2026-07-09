@@ -40,7 +40,7 @@ Je construis des systèmes fiables où les LLM rencontrent la donnée d'entrepri
 |  [RAG_Ollama](https://github.com/amayasmh/RAG_Ollama) | Pipeline RAG 100% local avec Ollama |
 |  [HealthDataWarehousing](https://github.com/amayasmh/HealthDataWarehousing) | Entrepôt de données sur les passages aux urgences (COVID-19) |
 |  [UrbanMobIDF](https://github.com/amayasmh/UrbanMobIDF) | Analyse de la mobilité urbaine en Île-de-France |
-|  [Pred_BNK_desert](https://github.com/amayasmh/Pred_BNK_desert) | Prédiction des déserts bancaires par ML |
+| 🏦 [bank-churn-prediction](https://github.com/amayasmh/bank-churn-prediction) | Prédiction du churn bancaire — Random Forest & données déséquilibrées |
 
 ---
 
