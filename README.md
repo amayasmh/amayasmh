@@ -39,7 +39,7 @@ Je construis des systèmes fiables où les LLM rencontrent la donnée d'entrepri
 
 | Projet | Description |
 |---|---|
-| 🔨 [portfolio-agent](https://github.com/amayasmh/portfolio-agent) | Agent conversationnel LLM en prod sur [amayas.dev](https://amayas.dev) — Google ADK, Gemini, FastAPI, Cloud Run *(en construction)* |
+| [portfolio-agent](https://github.com/amayasmh/portfolio-agent) | Agent conversationnel LLM en prod sur [amayas.dev](https://amayas.dev) — Google ADK, Gemini, FastAPI, Cloud Run *(en construction)* |
 | [RAG_Ollama](https://github.com/amayasmh/RAG_Ollama) | Pipeline RAG 100% local — FAISS, Ollama, Streamlit |
 | [HealthDataWarehousing](https://github.com/amayasmh/HealthDataWarehousing) | Entrepôt de données COVID-19 — ETL orchestré avec Airflow et PostgreSQL |
 | [UrbanMobIDF](https://github.com/amayasmh/UrbanMobIDF) | Optimisation d'itinéraires sur le réseau IDF — GTFS, graphe, Dijkstra |
