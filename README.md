@@ -4,11 +4,11 @@
 
 Je construis des systèmes fiables où les LLM rencontrent la donnée d'entreprise : des pipelines qui ne cassent pas, des warehouses propres, et par-dessus, des **agents et serveurs MCP** connectés à de la vraie donnée — évalués sérieusement, pas des démos.
 
-🌐 **Portfolio :** [amayasmh.github.io](https://amayasmh.github.io) · 💼 **LinkedIn :** [amayas-mhd](https://www.linkedin.com/in/amayas-mhd/) · 📫 amayasmah562@gmail.com
+🌐 **Portfolio :** [amayas.dev](https://amayas.dev) · 💼 **LinkedIn :** [amayas-mhd](https://www.linkedin.com/in/amayas-mhd/) · 📫 contact@amayas.dev
 
 ---
 
-###  Stack
+### Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
@@ -21,26 +21,29 @@ Je construis des systèmes fiables où les LLM rencontrent la donnée d'entrepri
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
 
 - **Data Engineering :** BigQuery · dbt · Airflow · Spark · Kafka · Snowflake · PostgreSQL
-- **Agentic AI :** Serveurs MCP (Model Context Protocol) · LangGraph · RAG · Vertex AI · Évaluation d'agents
-- **DevOps :** Docker · CI/CD (GitLab, GitHub Actions) · Monitoring · FinOps
+- **Agentic AI :** Serveurs MCP (Model Context Protocol) · Claude (Anthropic) · Google ADK · Vertex AI · RAG
+- **DevOps :** Docker · CI/CD (GitLab, GitHub Actions) · Cloud Run · Monitoring · FinOps
 
 ---
 
-###  Ce que je fais en ce moment
+### Ce que je fais en ce moment
 
--  Pipelines de données et automatisation de campagnes publicitaires sur GCP
--  Agents IA autonomes en production (lancement et vérification de campagnes)
--  Écosystème de serveurs **MCP** pour connecter Claude à des workflows, bases SQL et outils internes
--  Modélisation dbt sur BigQuery : qualité, modularité, performance, coûts
+- Pipelines de données et automatisation de campagnes publicitaires sur GCP
+- Agents IA autonomes en production — ex. : un serveur **MCP connecté à Meta Ads** qui vérifie le setup des campagnes (ciblage, budgets, dates, créas) contre le plan média validé, avant chaque lancement
+- Écosystème de serveurs **MCP** pour connecter Claude à des workflows, bases SQL et outils internes
+- Modélisation dbt sur BigQuery : qualité, modularité, performance, coûts
 
-###  Projets à explorer
+*Le code de ces projets appartient à Agence 79 — mes projets perso, eux, sont ci-dessous 👇*
+
+### Projets à explorer
 
 | Projet | Description |
 |---|---|
-|  [RAG_Ollama](https://github.com/amayasmh/RAG_Ollama) | Pipeline RAG 100% local — FAISS, Ollama, Streamlit |
-|  [HealthDataWarehousing](https://github.com/amayasmh/HealthDataWarehousing) | Entrepôt de données COVID-19 — ETL orchestré avec Airflow et PostgreSQL |
-|  [UrbanMobIDF](https://github.com/amayasmh/UrbanMobIDF) | Optimisation d'itinéraires sur le réseau IDF — GTFS, graphe, Dijkstra |
-|  [bank-churn-prediction](https://github.com/amayasmh/bank-churn-prediction) | Prédiction du churn bancaire — Random Forest & données déséquilibrées |
+| 🔨 [portfolio-agent](https://github.com/amayasmh/portfolio-agent) | Agent conversationnel LLM en prod sur [amayas.dev](https://amayas.dev) — Google ADK, Gemini, FastAPI, Cloud Run *(en construction)* |
+| [RAG_Ollama](https://github.com/amayasmh/RAG_Ollama) | Pipeline RAG 100% local — FAISS, Ollama, Streamlit |
+| [HealthDataWarehousing](https://github.com/amayasmh/HealthDataWarehousing) | Entrepôt de données COVID-19 — ETL orchestré avec Airflow et PostgreSQL |
+| [UrbanMobIDF](https://github.com/amayasmh/UrbanMobIDF) | Optimisation d'itinéraires sur le réseau IDF — GTFS, graphe, Dijkstra |
+| [bank-churn-prediction](https://github.com/amayasmh/bank-churn-prediction) | Prédiction du churn bancaire — Random Forest & données déséquilibrées |
 
 ---
 
